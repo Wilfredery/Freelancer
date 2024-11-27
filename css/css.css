@@ -1,0 +1,36 @@
+:root {
+    --blanco: #ffffff;
+    --negro: #212121;
+    --primario: #FFC107;
+    --secundario: #0097a7;
+    --gris: #757575;
+
+    --fuenteprincipal: 3.8rem;
+}
+  
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 16px;
+    font-family: "Krub", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.titulo {
+    text-align: center;
+    font-size: var(--fuenteprincipal);
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+.titulo span {
+    font-size: 2rem;
+}
+
+.titulobackground {
+    font-family: "Krub", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
