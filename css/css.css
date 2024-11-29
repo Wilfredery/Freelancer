@@ -13,8 +13,8 @@ html {
     box-sizing: border-box;
     background-image: linear-gradient(to top, var(--fondopagina) 0%, var(--blanco) 100%);
     line-height: 1.5;
-    /*scroll-snap-type: y mandatory;
-} */
+    /*scroll-snap-type: y mandatory;*/
+} 
 
 *, *:before, *:after {
   box-sizing: inherit;
